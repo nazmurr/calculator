@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact name="calculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/calculator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="calculator.jar">
+        <element id="module-output" name="calculator" />
+      </element>
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:mac:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:mac:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:mac:17.0.1" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:mac:17.0.1" />
+      <element id="library" level="project" name="Maven: net.objecthunter:exp4j:0.4.8" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.1" />
+    </root>
+  </artifact>
+</component>

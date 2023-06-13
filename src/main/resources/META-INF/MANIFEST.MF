@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Main-Class: com.example.calculator.Launcher
+Class-Path: javafx-controls-17.0.1-mac.jar javafx-base-17.0.1.jar javafx
+ -graphics-17.0.1.jar javafx-fxml-17.0.1.jar javafx-graphics-17.0.1-mac.
+ jar javafx-base-17.0.1-mac.jar javafx-fxml-17.0.1-mac.jar exp4j-0.4.8.j
+ ar javafx-controls-17.0.1.jar
+
